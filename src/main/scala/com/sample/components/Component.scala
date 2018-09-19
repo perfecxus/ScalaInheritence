@@ -1,6 +1,6 @@
 package com.sample.components
+//a space where name is unique
 
-import Point
 
 /**
   * Created by sinchan on 01/04/18.

@@ -1,6 +1,6 @@
 package com.sample.components
 
-import Point
+//import Point
 
 /**
   * Created by sinchan on 27/05/18.
@@ -12,4 +12,6 @@ class Square extends Component{
   override def bottomRight: Point = new Point(11,34)
 
   override def area: Unit = println(length*length)
+
+  //def width = 67
 }
